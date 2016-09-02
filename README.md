@@ -1,2 +1,2 @@
-# Image_hover_effects  (examles: <a href="https://tester-2.github.io/">tester-2.github.io</a>)
+# Image_hover_effects  <a href="https://tester-2.github.io/" target="_blank">Viewing</a>
 Hover effects for images
